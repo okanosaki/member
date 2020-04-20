@@ -9,12 +9,12 @@
   margin-top: 60px;
 }
 button{
+font-family: 'Noto Serif JP', serif;
   display: inline-block;
   position: relative;
   background: none;
   border: none;
   color:white;
-  font-size: 18px;
   cursor: pointer;
   margin: 20px 20px;
   background-image: url("無題.png");
@@ -24,11 +24,18 @@ button{
 }
 .container a{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color:white;
+}
+.container a:hover{
+    color:black;
 }
 .container span{
+    width: 360px;
+    height: 120px;
   display: block;
-  font-size: 2.5em;
+  line-height:40px;
+  font-size: 40px;
+  text-align:center
 }
 button:hover {
     cursor: pointer;
@@ -36,8 +43,22 @@ button:hover {
 button:hover {
     background-image:url("本棚.png");
     background-size: cover;
-
 }
+
+.btn-3{
+    background-image: url("umiakone1.jpg");
+}
+.btn-3:hover{
+    background-image: url("umiakone2.jpg");
+}
+.btn-9{
+    background-image: url("U41.jpg");
+}
+.btn-9:hover{
+    background-image: url("U42.jpg");
+}
+
+
 html,body{
     overflow-x: hidden;
     height: 100%;
