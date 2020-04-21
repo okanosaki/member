@@ -44,7 +44,12 @@ button:hover {
     background-image:url("本棚.png");
     background-size: cover;
 }
-
+.btn-2,.btn-4,.btn-6,.btn-8{
+    background-image: url("無題2.png");
+}
+.btn-2:hover,.btn-4:hover,.btn-6:hover,.btn-8:hover{
+    background-image: url("本.png");
+}
 .btn-3{
     background-image: url("umiakone1.jpg");
 }
