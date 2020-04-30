@@ -62,6 +62,12 @@ button:hover {
 .btn-4:hover{
     background-image: url("しまち2.jpg");
 }
+.btn-5{
+    background-image: url("ダァト1.jpg");
+}
+.btn-5:hover{
+    background-image: url("ダァト2.jpg");
+}
 .btn-9{
     background-image: url("U41.jpg");
 }
