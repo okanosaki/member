@@ -23,7 +23,7 @@ font-family: 'Noto Serif JP', serif;
   height: 120px;
 }
 .container a{
-    color: rgb(255, 152, 183);
+    color: pink;
     text-decoration: none;
 }
 .container a:hover{
@@ -75,8 +75,6 @@ button:hover {
 .btn-9:hover{
     background-image: url("U42.jpg");
 }
-
-
 html,body{
     overflow-x: hidden;
     height: 100%;
