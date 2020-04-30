@@ -24,7 +24,7 @@ font-family: 'Noto Serif JP', serif;
 }
 .container a{
     text-decoration: none;
-    color:white;
+    color: rgb(255, 152, 183);
 }
 .container a:hover{
     color:black;
