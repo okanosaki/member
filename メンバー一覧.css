@@ -69,12 +69,20 @@ button:hover {
 .btn-5:hover{
     background-image: url("ダァト2.jpg");
 }
+.btn-7{
+    background-image: url("本ノ虫1.jpeg");
+}
+.btn-7:hover{
+    background-image: url("本ノ虫2.jpg");
+}
 .btn-9{
     background-image: url("U41.jpg");
 }
 .btn-9:hover{
     background-image: url("U42.jpg");
 }
+
+
 html,body{
     overflow-x: hidden;
     height: 100%;
