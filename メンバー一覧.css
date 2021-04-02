@@ -45,7 +45,7 @@ button:hover {
     background-image:url("本棚.png");
     background-size: cover;
 }
-.btn-2,.btn-6,.btn-8{
+.btn-2,.btn-6,.btn-8,.btn-10{
     background-image: url("無題2.png");
 }
 .btn-2:hover,.btn-6:hover,.btn-8:hover{
